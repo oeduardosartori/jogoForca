@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="318a3d30-984e-4b9f-9103-030cc4ec6203" name="Changes" comment="">
+    <list default="true" id="318a3d30-984e-4b9f-9103-030cc4ec6203" name="Changes" comment="Ajustando listas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
     </list>
@@ -72,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673552898047</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ajustando listas">
+      <created>1673555797235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673555797235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajustando listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustando listas" />
   </component>
 </project>

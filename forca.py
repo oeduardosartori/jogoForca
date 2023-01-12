@@ -6,7 +6,8 @@ def jogar():
     palavra_secreta = "banana".upper()
     letras_corretas = ["_" for letra in palavra_secreta]
 
-    enforcou, acertou = False
+    enforcou = False
+    acertou = False
     erros = 0
 
     print(f"A palavra possui: {letras_corretas}")
@@ -35,7 +36,7 @@ def jogar():
     else:
         print("Que pena, suas chances terminaram e você não conseguiu acertar a palavra secreta")
         print(f"A palavra secreta era {palavra_secreta}")
-    print("-------------------- \n Fim do jogo!")
+        print("-------------------- \n Fim do jogo!")
 
     print("Fim do jogo")
 
