@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="318a3d30-984e-4b9f-9103-030cc4ec6203" name="Changes" comment="Ajustando listas">
+    <list default="true" id="318a3d30-984e-4b9f-9103-030cc4ec6203" name="Changes" comment="Aprimorando e corrigindo jogo">
+      <change afterPath="$PROJECT_DIR$/palavras.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
     </list>
@@ -79,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673555797235</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aprimorando jogo">
+      <created>1673555966080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673555966080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aprimorando e corrigindo jogo">
+      <created>1673555990625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673555990625</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ajustando listas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustando listas" />
+    <MESSAGE value="Aprimorando jogo" />
+    <MESSAGE value="Aprimorando e corrigindo jogo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprimorando e corrigindo jogo" />
   </component>
 </project>
